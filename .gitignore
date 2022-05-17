@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/clipboard_messages.py
+/chess_dictionary_validator.py
